@@ -20,9 +20,10 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  python1             |  brief python code to show how python uses for loops          |      https://github.com/CODE-MUCHIRA/python1.git
+| 2 |  Student-Performance-Indicator            |  This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course.            | https://github.com/CODE-MUCHIRA/Student-Performance-Indicator.git     |
+| 3 |  Binary-Classification          |  Train a machine learning model to predict whether a customer is male or female             | https://github.com/CODE-MUCHIRA/Binary-Classification.git
+
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
